@@ -1,4 +1,5 @@
 Project Description
+
 The project focuses on developing a machine learning model to recognize handwritten digits using Convolutional Neural Networks (CNN). The primary objective is to accurately classify images of handwritten digits (0-9) from the MNIST dataset. This task is a classic problem in the field of computer vision and pattern recognition, which involves preprocessing image data, building a CNN model, training the model on labeled data, and evaluating its performance on unseen test data.
 Application Areas
 1. Automated Data Entry:
