@@ -170,6 +170,7 @@ Project Annexes
 
 
 1. Model Architecture
+
 Table 1: Model: "sequential"
 
 ![image](https://github.com/user-attachments/assets/4f4bc29d-8a2f-404d-86a8-194667776f10)
