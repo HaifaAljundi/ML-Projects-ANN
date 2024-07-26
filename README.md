@@ -172,26 +172,39 @@ Table 1: Model: "sequential"
 
 2. Training and Validation Accuracy and Loss
 Figure 1: Training and Validation Accuracy
+
 ![image](https://github.com/user-attachments/assets/77c3fc58-c840-4199-b0cc-5063799f3ae3)
 
 Figure 2: Training and Validation Loss
-![image](https://github.com/user-attachments/assets/90a290a5-8cdf-4468-9923-a9bbb0d66a2f)
+
+![image](https://github.com/user-attachments/assets/00262f00-1b9f-4419-8597-595f236c06b6)
+
 
 3. Confusion Matrix
 Figure 3: Confusion Matrix on Test Set
-![image](https://github.com/user-attachments/assets/3ac567ec-cf55-4b16-9661-957cd2c28245)
 
-4.	Model Evaluation Metrics
+![image](https://github.com/user-attachments/assets/bc3cad65-d8bb-4307-89d9-721b53d99cb4)
+
+5.	Model Evaluation Metrics
+
 
 Evaluation accuracy vs iterations
-![image](https://github.com/user-attachments/assets/dca264ee-f9b9-4f03-9cbc-90e435376783)
+
+![image](https://github.com/user-attachments/assets/1624a2c0-c160-455b-822f-589a996d69e5)
+
 
 Evaluation loss vs iterations
-![image](https://github.com/user-attachments/assets/3f80fc5b-f4c7-459c-90f8-c232c7a35a30)
+
+![image](https://github.com/user-attachments/assets/03b7dc51-047f-4412-b5fd-ab494462f26d)
+
 
 Hyperparameter Tuning Results
+
+
 Table 3: Hyperparameter Tuning Results
-![image](https://github.com/user-attachments/assets/9616a011-d56c-4a47-9b1b-8a87b7120ef7)
+
+![image](https://github.com/user-attachments/assets/f3306f58-2d85-4127-bb04-be82310ee848)
+
 
 
 
