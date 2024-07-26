@@ -164,3 +164,39 @@ Missing Parts and Future Work
 2. Robustness to Noise: The model's performance in noisy or less ideal conditions needs further exploration.
 
 3. Broader Application: Extending the model to recognize alphabets or other characters could increase its utility in various applications.
+
+   Project Annexes
+1. Model Architecture
+Table 1: Model: "sequential"
+![image](https://github.com/user-attachments/assets/4f4bc29d-8a2f-404d-86a8-194667776f10)
+
+2. Training and Validation Accuracy and Loss
+Figure 1: Training and Validation Accuracy
+![image](https://github.com/user-attachments/assets/77c3fc58-c840-4199-b0cc-5063799f3ae3)
+
+Figure 2: Training and Validation Loss
+![image](https://github.com/user-attachments/assets/90a290a5-8cdf-4468-9923-a9bbb0d66a2f)
+
+3. Confusion Matrix
+Figure 3: Confusion Matrix on Test Set
+![image](https://github.com/user-attachments/assets/3ac567ec-cf55-4b16-9661-957cd2c28245)
+
+4.	Model Evaluation Metrics
+
+Evaluation accuracy vs iterations
+![image](https://github.com/user-attachments/assets/dca264ee-f9b9-4f03-9cbc-90e435376783)
+
+Evaluation loss vs iterations
+![image](https://github.com/user-attachments/assets/3f80fc5b-f4c7-459c-90f8-c232c7a35a30)
+
+Hyperparameter Tuning Results
+Table 3: Hyperparameter Tuning Results
+![image](https://github.com/user-attachments/assets/9616a011-d56c-4a47-9b1b-8a87b7120ef7)
+
+
+
+
+
+
+
+
