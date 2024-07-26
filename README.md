@@ -162,15 +162,21 @@ Benefits of the Project
 Missing Parts and Future Work
 1. Real-World Testing: While the model performs well on the MNIST dataset, it has not been tested on real-world handwritten data, which may include more variability.
 2. Robustness to Noise: The model's performance in noisy or less ideal conditions needs further exploration.
-
 3. Broader Application: Extending the model to recognize alphabets or other characters could increase its utility in various applications.
 
-   Project Annexes
+
+
+Project Annexes
+
+
 1. Model Architecture
 Table 1: Model: "sequential"
+
 ![image](https://github.com/user-attachments/assets/4f4bc29d-8a2f-404d-86a8-194667776f10)
 
 2. Training and Validation Accuracy and Loss
+
+
 Figure 1: Training and Validation Accuracy
 
 ![image](https://github.com/user-attachments/assets/77c3fc58-c840-4199-b0cc-5063799f3ae3)
@@ -181,11 +187,13 @@ Figure 2: Training and Validation Loss
 
 
 3. Confusion Matrix
+
+
 Figure 3: Confusion Matrix on Test Set
 
 ![image](https://github.com/user-attachments/assets/bc3cad65-d8bb-4307-89d9-721b53d99cb4)
 
-5.	Model Evaluation Metrics
+4.	Model Evaluation Metrics
 
 
 Evaluation accuracy vs iterations
@@ -198,7 +206,7 @@ Evaluation loss vs iterations
 ![image](https://github.com/user-attachments/assets/03b7dc51-047f-4412-b5fd-ab494462f26d)
 
 
-Hyperparameter Tuning Results
+5. Hyperparameter Tuning Results
 
 
 Table 3: Hyperparameter Tuning Results
